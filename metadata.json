@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive HCI Monitor",
+  "description": "A non-intrusive intelligent system that infers user cognitive states (Focus, Fatigue, Frustration) by analyzing human-computer interaction patterns like mouse dynamics and typing rhythm.",
+  "requestFramePermissions": []
+}
